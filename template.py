@@ -8,14 +8,14 @@ project_name = "Face-expressions-recognition"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
-    f"src/{project_name}/__init__.py",
-    f"src/{project_name}/data_loader.py",
-    f"src/{project_name}/parameters.py",
-    f"src/{project_name}/optimize_hyperparameters.py",
-    f"src/{project_name}/model.py",
-    f"src/{project_name}/train.py",
-    f"src/{project_name}/predict.py",
-    f"src/{project_name}/logging/__init__.py",
+    f"src/__init__.py",
+    f"src/data_loader.py",
+    f"src/parameters.py",
+    f"src/optimize_hyperparameters.py",
+    f"src/model.py",
+    f"src/train.py",
+    f"src/predict.py",
+    f"src/logging/__init__.py",
     "app.py",
     "requirements.txt",
 
